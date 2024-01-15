@@ -126,7 +126,7 @@ button {
 
 
 .main {
-    background-image: url(images/hero-bg.jpg);
+    background-image: url(.images/hero-bg.jpg);
     background-position: 45% 30%;
     background-size: cover;
     /* height: 600px; */
